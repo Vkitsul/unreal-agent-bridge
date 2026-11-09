@@ -86,3 +86,7 @@ Il server ascolta solo su `127.0.0.1`, non ha autenticazione e rifiuta le richie
 ```bash
 python tests/test_agent_bridge.py
 ```
+
+## Licenza
+
+[MIT](LICENSE)

@@ -112,3 +112,7 @@ The code is in [`AgentBridge/Content/Python/agent_bridge`](AgentBridge/Content/P
 ```bash
 python tests/test_agent_bridge.py
 ```
+
+## License
+
+[MIT](LICENSE)
