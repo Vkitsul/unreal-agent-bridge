@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Agent Bridge",
+	"Description": "Lets an AI agent read, edit and compile Blueprints as text through MCP. Python only, nothing to compile. Requires Unreal Engine 5.8.",
+	"Category": "Editor",
+	"CanContainContent": true,
+	"EnabledByDefault": true,
+	"Plugins": [
+		{ "Name": "PythonScriptPlugin", "Enabled": true }
+	]
+}

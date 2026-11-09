@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+
+# Local experiments that are not part of this project.
+mcp-unreal/
+friend-test/
