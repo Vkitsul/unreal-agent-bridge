@@ -5,6 +5,9 @@
 	"FriendlyName": "Agent Bridge",
 	"Description": "Lets an AI agent read, edit and compile Blueprints as text through MCP. Python only, nothing to compile. Requires Unreal Engine 5.8.",
 	"Category": "Editor",
+	"CreatedBy": "hopeyoudiequick",
+	"CreatedByURL": "https://github.com/hopeyoudiequick/unreal-agent-bridge",
+	"DocsURL": "https://github.com/hopeyoudiequick/unreal-agent-bridge#readme",
 	"CanContainContent": true,
 	"EnabledByDefault": true,
 	"Plugins": [
